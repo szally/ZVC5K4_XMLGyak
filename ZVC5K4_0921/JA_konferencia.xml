@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<konferencia>
+    <cim>Financial IT and Disruptive Technologies</cim>
+    <halllgatok>
+        <hallgato>
+            <nev>Nagy Mozes</nev>
+            <lakcim>Miskolc, Attila utca 7.</lakcim>
+        </hallgato>
+        <hallgato>
+            <nev>Bartok Roland Patrik</nev>
+            <lakcim>Kazincbarcika, Majus 1 ut 26.</lakcim>
+        </hallgato>
+    </halllgatok>
+    <helyszin>Europa Congress Center</helyszin>
+    <eloado>
+        <nev>Erni Tamas</nev>
+        <adoszam>578245985</adoszam>
+        <lakcim>Budapest, Bolyai utca 22.</lakcim>
+    </eloado>
+    <datum>2020. Október 29.</datum>
+</konferencia>

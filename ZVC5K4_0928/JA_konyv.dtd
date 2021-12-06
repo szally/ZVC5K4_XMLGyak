@@ -1,0 +1,8 @@
+<!-- Konyv definition -->
+<!ELEMENT konyvek (konyv+)>
+        <!ELEMENT konyv ( cim, kiadasi_ev, kiado, szerzo)>
+            <!ATTLIST konyv id ID #REQUIRED>
+<!ELEMENT cim (#PCDATA)>
+        <!ELEMENT kiadasi_ev (#PCDATA)>
+        <!ELEMENT kiado (#PCDATA)>
+        <!ELEMENT szerzo (#PCDATA)>

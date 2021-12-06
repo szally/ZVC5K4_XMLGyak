@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<konyvek>
+    <konyv id="1">
+        <cim>A Dune</cim>
+        <kiadasi_ev>1965</kiadasi_ev>
+        <kiado>GABO</kiado>
+        <szerzo>Frank Herbert</szerzo>
+    </konyv>
+    <konyv id="2">
+        <cim>Harry Potter es a bolcsek kove</cim>
+        <kiadasi_ev>1997</kiadasi_ev>
+        <kiado>Animus</kiado>
+        <szerzo>J. K. Rowling</szerzo>
+    </konyv>
+    <konyv id="3">
+        <cim>The Cruel Prince – A kegyetlen herceg</cim>
+        <kiadasi_ev>2018</kiadasi_ev>
+        <kiado>Konyvmolykepzo</kiado>
+        <szerzo>Holly Black</szerzo>
+    </konyv>
+</konyvek>

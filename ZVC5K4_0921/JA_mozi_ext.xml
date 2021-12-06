@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mozi>
+    <film id="txn_nxm_2jb" mufaj="horror">
+        <rendezo id="nzk_4xm_2jb" nev="alex"/>
+        <szinesz id="u5q_4xm_2jb" nev="Madison Ivy"/>
+        <producer id="asd_4xm_2jb" nev="Stanley Kubrick"/>
+        <dramaturg id="8rg_4xm_2jb" nev="Gotthold Ephraim Lessing"/>
+        <operator id="df8_4xm_2jb" nev="Roger Deakins"/>
+        <iro id="trv_4xm_2jb"/>
+    </film>
+</mozi>

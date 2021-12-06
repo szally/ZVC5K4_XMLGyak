@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<orarend>
+    <ora id="1" tipus="elmelet">
+        <targy>WEB-es alkalmazások</targy>
+        <idopont nap="Hetfo" tol="10:00" ig="12:00"></idopont>
+        <helyszin>Inf./101</helyszin>
+        <oktato>Dr. Krizsan Zoltan</oktato>
+        <szak>G3BIW</szak>
+    </ora>
+    <ora id="2" tipus="elmelet">
+        <targy>Webtechnologiak 1</targy>
+        <idopont nap="Hetfo" tol="12:00" ig="14:00"></idopont>
+        <helyszin>XXX. eloado</helyszin>
+        <oktato>Agardi Anita</oktato>
+        <szak>G3BIW</szak>
+    </ora>
+    <ora id="2" tipus="gyakorlat">
+        <targy>Webtechnologiak 1</targy>
+        <idopont nap="Hetfo" tol="17:00" ig="19:00"></idopont>
+        <helyszin>Inf./101</helyszin>
+        <oktato>Kunne Tamas Judit</oktato>
+        <szak>G3BIW</szak>
+    </ora>
+    <ora id="1" tipus="gyakorlat">
+        <targy>WEB-es alkalmazások</targy>
+        <idopont nap="Kedd" tol="10:00" ig="12:00"></idopont>
+        <helyszin>Inf./101</helyszin>
+        <oktato>Dr. Krizsan Zoltan</oktato>
+        <szak>G3BIW</szak>
+    </ora>
+    <ora id="3" tipus="elmelet">
+        <targy>Adatkezeles XML-ben</targy>
+        <idopont nap="Kedd" tol="12:00" ig="14:00"></idopont>
+        <helyszin>I. eloado</helyszin>
+        <oktato>Dr. Bednarik Laszlo</oktato>
+        <szak>G3BIW</szak>
+    </ora>
+    <ora id="3" tipus="gyakorlat">
+        <targy>Adatkezeles XML-ben</targy>
+        <helyszin>Inf./103</helyszin>
+        <oktato>Dr. Bednarik Laszlo</oktato>
+        <szak>G3BIW</szak>
+    </ora>
+</orarend>

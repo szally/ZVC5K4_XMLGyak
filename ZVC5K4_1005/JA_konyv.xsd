@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="konyvek" type="konyvekType"/>
+  <xs:complexType name="konyvType">
+    <xs:sequence>
+      <xs:element name="cim">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="A Dune"/>
+            <xs:enumeration value="Harry Potter es a bolcsek kove"/>
+            <xs:enumeration value="The Cruel Prince – A kegyetlen herceg"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="kiadasi_ev">
+        <xs:simpleType>
+          <xs:restriction base="xs:short">
+            <xs:enumeration value="1965"/>
+            <xs:enumeration value="1997"/>
+            <xs:enumeration value="2018"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="kiado">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="GABO"/>
+            <xs:enumeration value="Animus"/>
+            <xs:enumeration value="Konyvmolykepzo"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="szerzo">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Frank Herbert"/>
+            <xs:enumeration value="J. K. Rowling"/>
+            <xs:enumeration value="Holly Black"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute type="xs:byte" name="id" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="konyvekType">
+    <xs:sequence>
+      <xs:element type="konyvType" name="konyv" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

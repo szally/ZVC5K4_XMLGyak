@@ -1,0 +1,12 @@
+<!-- Udvar definition -->
+    <!ELEMENT udvar (gazda, kutya, kakas, tyuk, diszno)
+        <!ELEMENT gazda (#PCDATA)>
+            <!ATTLIST gazda nev CDATA #REQUIRED>
+        <!ELEMENT kutya (#PCDATA)>
+            <!ATTLIST kutya nev CDATA #REQUIRED>
+        <!ELEMENT kakas (#PCDATA)>
+            <!ATTLIST kakas id ID #REQUIRED>
+        <!ELEMENT tyuk (#PCDATA)>
+            <!ATTLIST tyuk ferj CDATA #REQUIRED>
+        <!ELEMENT diszno (#PCDATA)>
+            <!ATTLIST diszno nev CDATA #REQUIRED>
