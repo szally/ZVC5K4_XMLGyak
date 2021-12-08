@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="hallgatokZVC5K4.xsd">
+    <student id="01">
+        <keresztnév>Endre</keresztnév>
+        <vezetéknév>Kovács</vezetéknév>
+        <becenév>Bandi</becenév>
+        <kor>35</kor>
+    </student>
+    <student id="02">
+        <keresztnév>Anita</keresztnév>
+        <vezetéknév>Nagy</vezetéknév>
+        <becenév>Ancsi</becenév>
+        <kor>19</kor>
+    </student>
+    <student id="03">
+        <keresztnév>Olga</keresztnév>
+        <vezetéknév>Kertész</vezetéknév>
+        <becenév>Olgi</becenév>
+        <kor>40</kor>
+    </student>
+</class>

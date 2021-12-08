@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<szemelyek xsi:noNamespaceSchemaLocation="szemelyekZVC5K4.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+    <szemely id="X11">
+        <nev>Kiss Béla</nev>
+        <kor>35</kor>
+        <varos>Encsencs</varos>
+    </szemely>
+
+    <szemely id="Y22">
+        <nev>Nagy Ferenc</nev>
+        <kor>24</kor>
+        <varos>Debrecen</varos>
+    </szemely>
+
+    <szemely id="Z33">
+        <nev>Lakatos Beáta</nev>
+        <kor>20</kor>
+        <varos>Tarpa</varos>
+    </szemely>
+
+</szemelyek>

@@ -1,0 +1,39 @@
+<html>
+    <body>
+        <h2>Tanulok</h2>
+        <table border="1">
+            <tr bgcolor="green">
+                <th>id</th>
+                <th>Vezeteknév</th>
+                <th>Keresztnév</th>
+                <th>Becenév</th>
+                <th>Kor</th>
+                <th>Fizetés</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Jakab</td>
+                <td>Alexandra</td>
+                <td>Szandi</td>
+                <td>24</td>
+                <td>600000</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Kék</td>
+                <td>Dóra</td>
+                <td>Dorka</td>
+                <td>20</td>
+                <td>590000</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Zsoldos</td>
+                <td>Andrea</td>
+                <td>Andi</td>
+                <td>18</td>
+                <td>280000</td>
+            </tr>
+        </table>
+    </body>
+</html>

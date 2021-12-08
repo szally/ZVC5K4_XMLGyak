@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<konyvek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="JA_konyv1.xsd">
+    <konyv isbn="">
+        <cim>Random</cim>
+        <szerzo>Szabó Eszter</szerzo>
+        <szereplo>
+            <nev>Horváth Lehel</nev>
+            <baratja>Kecskés Melinda</baratja>
+            <szuletett>1999-08-24</szuletett>
+            <jellemzes>Vézna</jellemzes>
+        </szereplo>
+        <szereplo>
+            <nev>Kiss Lilla</nev>
+            <szuletett>1996-04-07</szuletett>
+            <jellemzes>Alacsony</jellemzes>
+        </szereplo>
+    </konyv>
+</konyvek>

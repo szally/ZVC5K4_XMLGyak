@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="studentZVC5K4_choose.xsl"?>
+
+<class>
+    <student id="1">
+        <vezeteknev>Jakab</vezeteknev>
+        <keresztnev>Alexandra</keresztnev>
+        <becenev>Szandi</becenev>
+        <kor>24</kor>
+        <fizetes>600000</fizetes>
+    </student>
+
+    <student id="2">
+        <vezeteknev>Kék</vezeteknev>
+        <keresztnev>Dóra</keresztnev>
+        <becenev>Dorka</becenev>
+        <kor>20</kor>
+        <fizetes>590000</fizetes>
+    </student>
+
+    <student id="3">
+        <vezeteknev>Zsoldos</vezeteknev>
+        <keresztnev>Andrea</keresztnev>
+        <becenev>Andi</becenev>
+        <kor>18</kor>
+        <fizetes>280000</fizetes>
+    </student>
+</class>
